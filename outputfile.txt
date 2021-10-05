@@ -1,0 +1,24 @@
+simulatedCode
+
+params = 
+
+  <a href="matlab:helpPopup gyroparams" style="font-weight:bold">gyroparams</a> with properties:
+
+    MeasurementRange: Inf        rad/s      
+          Resolution: 0          (rad/s)/LSB
+        ConstantBias: [0 0 0]    rad/s      
+    AxesMisalignment: [0 0 0]    %          
+
+       NoiseDensity: [0 0 0]    (rad/s)/√Hz
+    BiasInstability: [0 0 0]    rad/s      
+         RandomWalk: [0 0 0]    (rad/s)*√Hz
+
+           TemperatureBias: [0 0 0]    (rad/s)/°C    
+    TemperatureScaleFactor: [0 0 0]    %/°C          
+          AccelerationBias: [0 0 0]    (rad/s)/(m/s²)
+
+
+ans =
+
+    'on'
+
